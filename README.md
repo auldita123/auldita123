@@ -1,4 +1,4 @@
-# Hi there, I'm [Muhammad Rizki Nasrulloh] 👋
+# Hi there, I'm Muhammad Rizki Nasrulloh 👋
 
 Welcome to my GitHub profile! I'm a passionate [Your Profession/Field] with a love for [Your Interests or Technologies]. Here you'll find a collection of my projects, contributions, and sometimes a few experiments. Feel free to explore!
 
