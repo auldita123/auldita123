@@ -1,4 +1,4 @@
-# Hi there, I'm Muhammad Rizki Nasrulloh 👋
+# Hi there, I'm [Muhammad Rizki Nasrulloh] 👋
 
 Welcome to my GitHub profile! I'm a passionate [Your Profession/Field] with a love for [Your Interests or Technologies]. Here you'll find a collection of my projects, contributions, and sometimes a few experiments. Feel free to explore!
 
@@ -15,10 +15,7 @@ Welcome to my GitHub profile! I'm a passionate [Your Profession/Field] with a lo
 ## 🚀 My Top Projects
 
 ### [auldita123.github.io](https://github.com/auldita123/auldita123.github.io)
-Brief description of the project. What problem does it solve? Why is it interesting?
-
-### [Another Project Name](Link to Project)
-Brief description of the project. What was your role? Any special technologies used?
+Try github page and create simple web with ChatGPT
 
 ## 📈 GitHub Stats
 
